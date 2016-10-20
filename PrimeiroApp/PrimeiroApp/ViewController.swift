@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         //exibir uma mensagem
         print("MEU PRIMEIRO APP");
-        print("MEU PRIMEIRO APP alterad 19/10 edit");
+        print("MEU PRIMEIRO APP alterad 19/10 edit dd");
     }
 
     override func didReceiveMemoryWarning() {
