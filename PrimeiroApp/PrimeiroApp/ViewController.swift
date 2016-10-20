@@ -13,7 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         //exibir uma mensagem
-        print("MEU PRIMEIRO APP alterad 19/10");
+        print("MEU PRIMEIRO APP");
+        print("MEU PRIMEIRO APP alterad 19/10 edit");
     }
 
     override func didReceiveMemoryWarning() {
